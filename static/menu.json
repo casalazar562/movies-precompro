@@ -1,0 +1,6 @@
+[
+  { "id": 1, "label": "Movies", "route": "#" },
+  { "id": 2, "label": "Celebs & photos", "route": "#" },
+  { "id": 3, "label": "Community", "route": "#" },
+  { "id": 4, "label": "News", "route": "#" }
+]

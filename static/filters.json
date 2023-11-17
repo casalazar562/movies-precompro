@@ -1,0 +1,7 @@
+[
+  { "id": 1, "label": "In theaters", "name": "in-theaters", "url": "/movie/now_playing" },
+  { "id": 2, "label": "Coming soon", "name": "coming-soon", "url": "/movie/upcoming" },
+  { "id": 3, "label": "Popular", "name": "popular", "url": "/movie/popular" },
+  { "id": 4, "label": "Top rated", "name": "top-rated", "url": "/movie/top_rated" },
+  { "id": 5, "label": "Tv series", "name": "tv-series", "url": "/tv/on_the_air" }
+]
